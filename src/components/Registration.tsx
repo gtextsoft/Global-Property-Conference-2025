@@ -68,7 +68,7 @@ export const Registration = () => {
       <div className="mt-16 text-center">
         <div className="border-t border-white/20 pt-8">
           <p className="text-gray-400">
-            © 2025 Global Property Conference. All rights reserved.
+            © 2025 GText Holdings. All rights reserved.
           </p>
         </div>
       </div>
